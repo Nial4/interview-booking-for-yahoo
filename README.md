@@ -4,7 +4,7 @@ is a script that notifies you if interview time is available.
 Since most Japanese company recruitment systems do not have a notification function,   
 this script can be used to notify you if an appointment is available.
 
-Please note that depending on the OS, the executable_path of webdriver is not understood.
+Please note that depending on the OS, the executable_path of webdriver is not understood.  
 in ubantu you may need：  
 ```sudo apt install chromedriver``` and  
 ```executable_path='/usr/lib/chromium-browser/chromedriver'```
