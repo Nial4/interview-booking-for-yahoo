@@ -14,5 +14,6 @@ in Arch Linux as Manjaro:
 
 Set the number of sleep seconds in the *choose_ticket function,  
 I don't recommend setting too short a time, because it's not fair to others and will stress the server.  
+And this is not an automatic appointment script, it just emails you the latest time.  
 
 If you have Google Gmail 2-step verification turned on, you will need to set an app password.
