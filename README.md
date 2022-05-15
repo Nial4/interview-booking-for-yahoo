@@ -1,4 +1,4 @@
-# interview-booking-for-yahoo
+# interview-booking-samples
 is a script that notifies you if interview time is available.  
 
 Since most Japanese company recruitment systems do not have a notification function,   
